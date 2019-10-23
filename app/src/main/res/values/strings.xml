@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DM Whatsapp</string>
+    <string name="whatsapp_dm">WhatsApp DM</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="send">Send</string>
+    <string name="you_can_send_message_to_anyone_without_saving_their_number">You can send message to anyone without saving their number</string>
+    <string name="note_please_include_your_country_code">Note : Please include your country code</string>
+    <string name="_91_enter_number">+91 Enter Number</string>
+</resources>
